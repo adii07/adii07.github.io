@@ -119,9 +119,8 @@ hr{
 }
 
 .contact{
-  text-align: center;
-  margin-left: 21.875rem;
-  margin-right: 21.875rem;
+  width:50%;
+  margin: auto;
 }
 
 .btn{
