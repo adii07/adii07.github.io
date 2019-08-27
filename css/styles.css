@@ -1,0 +1,164 @@
+div{
+  background-color: #E4F9F5;
+}
+body{
+font-family: 'Merriweather', serif;
+  text-align: center;
+  margin: 0;
+  border: 0;
+}
+
+h1{
+font-family: 'Sacramento', cursive;
+margin-top: 20px auto 10px auto ;
+font-size: 3.75rem;
+color: #35b0ab;
+}
+.book{
+  color:#35b0ab;
+  font-size: 1.2rem;
+  margin: 0;
+  font-weight: normal;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  color: #6bc5d2;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #11999E;
+}
+p{
+  font-family: 'Merienda', cursive;
+}
+.boss{
+  background-color:#d2fafb;
+  border-radius: 50%;
+}
+.topcontainer{
+  position: relative;
+  padding-top: 150px;
+  margin:0;
+
+}
+
+.adi{
+  text-align: center;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.middlecontainer{
+  background-color: white;
+  padding-top: 100px;
+
+}
+
+.profile{
+  background-color: white;
+}
+
+.ad{
+position: absolute;
+left: 100px;
+top: 50px;
+border-radius: 50%;
+background-color: white;
+}
+
+.cloud1{
+
+ position: absolute;
+ right: 300px;
+ top: 50px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+hr{
+  color: #e0e0e0;
+  border-style: none;
+  width: 5%;
+  border-top-style: dotted;
+  border-width:5px;
+
+
+}
+
+.line{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.skills{
+  background-color: white;
+}
+.skill-row{
+  background-color: white;
+  margin-left: 200px;
+  margin-right: 100px;
+
+}
+.ass{
+  text-align: center;
+
+  margin-left: 50px;
+}
+.develope{
+  background-color: #d2fafb;
+
+}
+
+.contact-me{
+  background-color: white;
+}
+
+.contact{
+  text-align: center;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+.btn{
+  font-size: .8em;
+  text-align: center;
+display: block;
+position: relative;
+background: #45b29a;
+padding: .75em 2em .75em 3.5em;
+color: #1b7f69;
+
+margin-left: 550px;
+margin-right: 500px;
+margin-bottom: 60px;
+margin-top: 30px;
+border-radius: 3px;
+font-weight: 400;
+border: 0;
+font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+text-transform: uppercase;
+}
+
+.bottom-container{
+  background-color: #E4F9F5;
+
+  padding-top: 40px;
+
+}
+.footer-link{
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #1b7f69;
+  font-family:'Pacifico', cursive;
+}
+.mountain{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
