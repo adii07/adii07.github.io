@@ -125,7 +125,7 @@ hr{
 
 .btn{
  background: #45b29a;
-
+text-align:center;
 display: block;
 position: relative;
   border-radius: 3px;
@@ -133,7 +133,7 @@ position: relative;
   color: #1b7f69;
   font-size:0.8em;
   padding: .75em 2em .75em 3.5em;
-  margin: 1.875em 31.25em 3.75em 31.25em;
+  margin: 1.875em 31.25em 3.75em 32.25em;
   text-decoration: none;
 }
 
