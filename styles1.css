@@ -1,0 +1,164 @@
+div{
+  background-color: #E4F9F5;
+}
+body{
+font-family: 'Merriweather', serif;
+  text-align: center;
+  margin: 0;
+  border: 0;
+}
+
+h1{
+font-family: 'Sacramento', cursive;
+margin-top: 1.25rem auto .625rem auto ;
+font-size: 3.75rem;
+color: #35b0ab;
+}
+.book{
+  color:#35b0ab;
+  font-size: 1.2rem;
+  margin: 0;
+  font-weight: normal;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #6bc5d2;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  color: #11999E;
+}
+p{
+  font-family: 'Merienda', cursive;
+}
+.boss{
+  background-color:#d2fafb;
+  border-radius: 50%;
+}
+.topcontainer{
+  position: relative;
+  padding-top: 9.375rem;
+  margin:0;
+
+}
+
+.adi{
+  text-align: center;
+  margin-left: 25rem;
+  margin-right: 25rem;
+}
+
+.middlecontainer{
+  background-color: white;
+  padding-top: 100px;
+
+}
+
+.profile{
+  background-color: white;
+}
+
+.ad{
+position: absolute;
+left: 6.25rem;
+top: 3.125rem;
+border-radius: 50%;
+background-color: white;
+}
+
+.cloud1{
+
+ position: absolute;
+ right: 18.75rem;
+ top: 3.125rem;
+}
+
+.cloud2{
+  position: absolute;
+  left: 18.75rem;
+  bottom: 18.75rem;
+}
+hr{
+  color: #e0e0e0;
+  border-style: none;
+  width: 5%;
+  border-top-style: dotted;
+  border-width:0.313rem;
+
+
+}
+
+.line{
+  margin-top: 4.375rem;
+  margin-bottom: 4.375rem;
+}
+.skills{
+  background-color: white;
+}
+.skill-row{
+  background-color: white;
+  margin-left: 12.5rem;
+  margin-right: 6.25rem;
+
+}
+.ass{
+  text-align: center;
+
+  margin-left: 3.125rem;
+}
+.develope{
+  background-color: #d2fafb;
+
+}
+
+.contact-me{
+  background-color: white;
+}
+
+.contact{
+  text-align: center;
+  margin-left: 21.875rem;
+  margin-right: 21.875rem;
+}
+
+.btn{
+  font-size: .8em;
+  text-align: center;
+display: block;
+position: relative;
+background: #45b29a;
+padding: .75em 2em .75em 3.5em;
+color: #1b7f69;
+
+margin-left: 34.375rem;
+margin-right: 31.25rem;
+margin-bottom: 3.75rem;
+margin-top: 1.875rem;
+border-radius: 0.188rem;
+font-weight: 400;
+border: 0;
+font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+text-transform: uppercase;
+}
+
+.bottom-container{
+  background-color: #E4F9F5;
+
+  padding-top: 2.5rem;
+
+}
+.footer-link{
+  margin-left: 6.25rem;
+  margin-right: 6.25rem;
+  color: #1b7f69;
+  font-family:'Pacifico', cursive;
+}
+.mountain{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
