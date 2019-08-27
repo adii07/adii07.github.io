@@ -47,9 +47,8 @@ p{
 }
 
 .adi{
-  text-align: center;
-  margin-left: 25rem;
-  margin-right: 25rem;
+  width: 30%;
+  margin:auto;
 }
 
 .middlecontainer{
