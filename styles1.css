@@ -7,6 +7,10 @@ font-family: 'Merriweather', serif;
   margin: 0;
   border: 0;
 }
+#title{
+  background: #E4F9F5;
+  
+}
 
 h1{
 font-family: 'Sacramento', cursive;
