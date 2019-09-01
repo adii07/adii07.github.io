@@ -71,3 +71,12 @@ function makeSound(key) {
   }
 
 }
+
+function buttonAmination(currentKey){
+  var activeKey = document.querySelector("."+currentKey);
+  activeKey.classList.add("pressed");
+
+  setTimeout(function() {
+    activeKey.classList.remove("pressed");
+  }, 100);
+}
